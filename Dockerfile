@@ -1,3 +1,7 @@
+# Das ist ein Testeintrag
+# von Thomas Wagner
+#
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
